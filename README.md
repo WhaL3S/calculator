@@ -1,0 +1,2 @@
+# calculator
+Calculator for use with real numbers. Calculator is able to perform 4 operations: addition (+), subtraction (-), multiplication (*), and division (/). Enter two numbers, and then sign of operation. It is possible to enter any sign for operator. It checks whether the sign of the operation is valid. If sign is not valid, it prints print error message. If sign of operation is valid, calculates and displays operation result and initial data. 
