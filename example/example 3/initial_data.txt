@@ -1,0 +1,7 @@
+// Initial data entered in the console
+Enter the first number:
+15
+Enter the second number:
+0
+Enter the sign of operation:
+/
