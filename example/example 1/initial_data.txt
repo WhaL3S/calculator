@@ -1,0 +1,7 @@
+// Initial data enterd in the console
+Enter the first number:
+5
+Enter the second number:
+6
+Enter the sign of operation:
++
