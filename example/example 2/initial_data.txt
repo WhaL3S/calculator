@@ -1,3 +1,4 @@
+// Initial data entered in the console
 Enter the first number:
 4
 Enter the second number:
